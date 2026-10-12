@@ -1,0 +1,11 @@
+export 'package:flutter_application_1/widgets/productos/form_product.dart';
+export 'package:flutter_application_1/widgets/productos/detail_product.dart';
+export 'package:flutter_application_1/widgets/productos/image_product.dart';
+export 'package:flutter_application_1/widgets/productos/price_product.dart';
+export 'package:flutter_application_1/widgets/productos/card_product.dart';
+export 'package:flutter_application_1/widgets/login/login_area_form.dart';
+export 'package:flutter_application_1/widgets/login/login_container1.dart';
+export 'package:flutter_application_1/widgets/login/login_container2.dart';
+export 'package:flutter_application_1/widgets/utiles/card_container.dart';
+export 'package:flutter_application_1/widgets/utiles/buble.dart';
+export 'package:flutter_application_1/widgets/utiles/button.dart';
