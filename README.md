@@ -1,6 +1,6 @@
-# EvaluacionFinal 📦
+# EvaluacionFinal
 
-Aplicación móvil hecha en **Flutter** para la asignatura **Computación Móvil** de Ingeniería en Informática, Universidad Mayor.
+Aplicación móvil hecha en Flutter para la asignatura **Computación Móvil** de Ingeniería en Informática, Universidad Mayor.
 
 Permite iniciar sesión / registrarse con Firebase Authentication y administrar un listado de productos (listar, crear, editar y eliminar) consumiendo una API REST.
 
